@@ -1,0 +1,9 @@
+{
+    "remote.SSH.defaultForwardedPorts": [
+        {
+            "name": "ST2 Web",
+            "localPort": 80,
+            "remotePort": 80
+        }
+    ]
+}
